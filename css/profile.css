@@ -3,3 +3,36 @@ img {
 	height:250px;
 	border-radius:100%;
 }
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+
+
+  html {
+  background-color: #f5f7f9;
+}
+
+  
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+
+}
+
+.jumbotron {
+  background-image:("img/image.jpg");
+  background-size: cover;
+  color: white;
+}
